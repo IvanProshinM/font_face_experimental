@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'helvetica_neue';
+    src:url("fonts/ofont.ru_Helvetica Neue.ttf");
+    font-style: normal;
+    font-weight: bold;
+}
+.family_fonts {
+    font-family: "helvetica_neue",sans-serif ;
+    font-size: 22px;
+}
